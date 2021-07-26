@@ -1,0 +1,22 @@
+com/saucedemo/automations/util/Data.java
+ com.saucedemo.automations.util.Data
+com/saucedemo/automations/pageobjects/AddProductPage.java
+ com.saucedemo.automations.pageobjects.AddProductPage
+com/saucedemo/automations/steps/HomeSteps.java
+ com.saucedemo.automations.steps.HomeSteps
+com/saucedemo/automations/pageobjects/CheckoutPage.java
+ com.saucedemo.automations.pageobjects.CheckoutPage
+com/saucedemo/automations/steps/AddProductSteps.java
+ com.saucedemo.automations.steps.AddProductSteps
+com/saucedemo/automations/pageobjects/HomePage.java
+ com.saucedemo.automations.pageobjects.HomePage
+com/saucedemo/automations/steps/CheckoutSteps.java
+ com.saucedemo.automations.steps.CheckoutSteps
+com/saucedemo/automations/pageobjects/InformationPage.java
+ com.saucedemo.automations.pageobjects.InformationPage
+com/saucedemo/automations/steps/InformationSteps.java
+ com.saucedemo.automations.steps.InformationSteps
+com/saucedemo/automations/pageobjects/CheckoutCompletePage.java
+ com.saucedemo.automations.pageobjects.CheckoutCompletePage
+com/saucedemo/automations/steps/CheckoutCompleteSteps.java
+ com.saucedemo.automations.steps.CheckoutCompleteSteps
